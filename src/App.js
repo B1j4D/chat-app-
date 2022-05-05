@@ -15,8 +15,7 @@ firebase.initializeApp({
   projectId: "lpchat-b1db9",
   storageBucket: "lpchat-b1db9.appspot.com",
   messagingSenderId: "92456059980",
-  appId: "1:92456059980:web:ccc06856cc1f0bf4a3e0e9",
-  measurementId: "G-DP5F1SH6KN"
+  appId: "1:92456059980:web:ccc06856cc1f0bf4a3e0e9"
 });
 
 const MoonIcon = props => (
